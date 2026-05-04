@@ -1,0 +1,7 @@
+{
+  "name": "brioso-experience",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "live-server public"
+  }
+}
